@@ -34,7 +34,7 @@ Le programme permet de :
 ### *Méthode qui associe chaque lettre à une paire de chiffres en utilisant une grille 5x5 (par exemple, A=11, B=12, etc.). Simplicité et efficacité pour des messages courts.*
 
 
-## Plus de Détails et d'Infos dans le mode d'Emploi :D
+## Plus de Détails et d'Infos dans le mode d'Emploi et dans la présentation PDF du Projet :D
 
 # **Conclusion** :
 ### Ce projet m'a permis d'explorer des algorithmes de cryptographie tout en consolidant mes compétences en Python. Il constitue ma première base solide pour des projets futurs dans le domaine de la sécurité informatique et du développement logiciel.
