@@ -1,0 +1,20 @@
+
+ROT13:
+Dans la fonction encrypt_rot13, j'ai utilisé une boucle pour parcourir chaque caractère du message. Si le caractère est une lettre, j'ai utilisé l'opération mathématique pour appliquer le décalage ROT13. Les lettres sont converties en majuscules ou en minuscules en fonction de l'original. J'ai choisi d'expliquer le fonctionnement du ROT13 et d'utiliser des noms de variables explicites pour améliorer la lisibilité du code.
+
+2. Code de César:
+La fonction encrypt_cesar utilise une approche similaire à ROT13, mais le décalage est maintenant déterminé par l'utilisateur. J'ai inclus un paramètre shift pour permettre à l'utilisateur de spécifier le décalage. Les commentaires expliquent chaque étape du processus. L'utilisation d'une formule mathématique simple rend la fonction concise et facile à comprendre.
+
+3. Code de Vigenère:
+La fonction encrypt_vigenere prend en charge une clé pour le chiffrement de Vigenère. J'ai expliqué l'idée générale derrière le chiffrement de Vigenère, notamment comment la clé est répétée pour correspondre à la longueur du message. Les opérations mathématiques sont utilisées pour appliquer le décalage à chaque lettre du message en fonction de la lettre correspondante de la clé.
+
+
+
+4. Carré de Polybe:
+La fonction encrypt_polybius chiffre le message en remplaçant chaque lettre par sa représentation dans le Carré de Polybe. J'ai utilisé un dictionnaire pour mapper chaque lettre à sa représentation dans le carré. Les commentaires expliquent la correspondance des lettres avec les chiffres dans le carré, et j'ai inclus une vérification pour les espaces. Cela rend le code explicite et facile à suivre.
+Dans l'ensemble, j'ai opté pour une approche simple et lisible, en utilisant des noms de variables explicites et en ajoutant des commentaires là où cela pourrait aider à clarifier le processus de chiffrement. Ces choix sont motivés par la volonté de rendre le code accessible et compréhensible, en particulier pour ceux qui ne sont pas familiers avec les techniques de cryptographie.
+
+
+
+
+
